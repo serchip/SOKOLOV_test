@@ -1,0 +1,10 @@
+aiohttp
+psycopg2
+argparse
+asyncpgsa
+aioredis
+sqlalchemy
+pytoml
+aiohttp-swagger
+bcrypt
+aiohttp_autoreload

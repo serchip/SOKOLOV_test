@@ -1,0 +1,7 @@
+-r prod.txt
+
+# testing
+pytest
+pytest-aiohttp
+aiohttp-devtools
+ipython

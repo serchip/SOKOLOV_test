@@ -1,0 +1,10 @@
+docker-compose.override.yml
+env
+tags
+*.sqlite3
+.env
+.idea/
+__pycache__/
+node_modules/
+package-lock.json
+.DS_Store

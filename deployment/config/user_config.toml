@@ -1,0 +1,13 @@
+[database]
+
+DB_HOST = 'db'
+DB_PORT = 5432
+
+DB_NAME = 'aioh_db'
+DB_USER = 'aioh_user'
+DB_PASS = 'aioh_pass'
+
+[redis]
+
+REDIS_HOST = 'redis'
+REDIS_PORT = 6379
